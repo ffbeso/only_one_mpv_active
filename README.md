@@ -1,4 +1,4 @@
-# Windowsでmpvが多重起動しないようにするスクリプト
+## Windowsでmpvが多重起動しないようにするスクリプト
 
 %APPDATA%\mpv\フォルダへ.batと.vbsを展開してください。  
 関連付けを.exeではなく. batに設定する必要があるので、mpv-install_customで関連付けをmpv.batへ変更。  
