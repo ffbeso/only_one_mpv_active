@@ -10,6 +10,3 @@ if errorlevel 0 (
 )
 
 start "" "C:\ProgramData\chocolatey\lib\mpv.install\tools\mpv.exe" %*
-
-
-
