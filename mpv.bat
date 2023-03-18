@@ -9,7 +9,7 @@ if errorlevel 0 (
 			
 		)
 	)
-	powershell Start-Sleep -m 750
+	powershell Start-Sleep -m 1000
 )
 
 start "" "C:\ProgramData\chocolatey\lib\mpv.install\tools\mpv.exe" %*
